@@ -2,7 +2,7 @@
 layout: page
 #title: 
 #subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/bch.jpg
+cover-img: /assets/img/bch.jpeg
 ---
 
 <br/>
