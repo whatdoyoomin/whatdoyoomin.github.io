@@ -9,7 +9,7 @@ title: Artwork
 
 "/assets/img/bch.jpeg"
 
-#### When COVID19 ends 
+#### When COVID19 ends 49X37cm 2020 
 
 <br/>
 
