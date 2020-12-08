@@ -7,8 +7,9 @@ title: Artwork
 
 # Oil Painting
 
+"/assets/img/bch.jpeg"
 
-#### A bigger splash (imitation) 
+#### When COVID19 ends 
 
 <br/>
 
