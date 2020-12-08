@@ -7,9 +7,9 @@ title: Publication
 
 ### Joural Papers
 
-- **Yoomin Lee**, _“text analysis to identify partisan influence in achieving sustainable development goals (sdgs): the case of mexico,”_ Latin america Association of Korea, Korean Ministry of Foreign affairs, Dec 2020 
+- **Yoomin Lee**, _“Text analysis to identify partisan influence in achieving sustainable development goals (SDGs): the case of mexico”_ Latin America Association of Korea, Korean Ministry of Foreign affairs, Dec 2019 
 
 
 #### Others
 
-- **브런치북** : JPO로의 여정 https://brunch.co.kr/brunchbook/jpojourney 
+- **브런치북** : [JPO로의 여정] (https://brunch.co.kr/brunchbook/jpojourney), OCT 2020
