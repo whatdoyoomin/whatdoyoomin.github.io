@@ -2,12 +2,12 @@
 layout: page
 #title: 
 #subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/bch.jpeg
+cover-img: /assets/img/001.png
 ---
 
 <br/>
 
-## About Yoomin Lee
+## Yoomin Lee
 
 Thank you for visiting my website. I am a **_Junior Profesional Officer_** at **_the World Bank Transport Global Practice_**. 
 
