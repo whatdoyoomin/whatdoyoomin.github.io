@@ -12,4 +12,4 @@ title: Publication
 
 #### Others
 
-- **브런치북** : [JPO로의 여정] (https://brunch.co.kr/brunchbook/jpojourney), OCT 2020
+- **브런치북** : [JPO로의 여정](https://brunch.co.kr/brunchbook/jpojourney), OCT 2020
