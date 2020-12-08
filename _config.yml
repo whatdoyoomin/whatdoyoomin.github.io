@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-#title: WhatdoYoomin
+title: What do Yoomin
 
 # [수정필요] 간단한 사이트 설명
 description: Website of Yoomin Lee
@@ -35,11 +35,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
-social-network-links:
-  email: "lym0383@naver.com"
+# social-network-links:
+  #email: "lym0383@naver.com"
 #  facebook: seokho.son.korea
 #  github: seokho-son
- linkedin: whatdoyoomin
+ #linkedin: whatdoyoomin
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
