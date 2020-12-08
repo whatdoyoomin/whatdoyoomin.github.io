@@ -23,6 +23,11 @@ title: Artwork
 
 #### Cerro de la Silla, 530x334 mm, oil on canvas, 2017
 
+![KakaoTalk_Photo_2020-12-09-03-42-50](https://user-images.githubusercontent.com/75684677/101526986-c2da4f80-39d0-11eb-995d-df17a6e2d1bf.jpeg)
+
+#### Wanderer above the sea of fog (imitation), 95x75 cm, oil on canvas, 2017
+
+
 <br/>
 
 # Others
