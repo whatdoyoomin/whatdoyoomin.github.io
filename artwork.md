@@ -9,11 +9,11 @@ title: Artwork
 
 ![KakaoTalk_Photo_2020-12-09-03-27-28](https://user-images.githubusercontent.com/75684677/101525326-7e4db480-39ce-11eb-8c2c-52bf5692beb5.jpeg)
 
-#### A bigger Splash (imitation), 242.5×243.9 cm, arcylic on canvas, 2020 
+#### A bigger Splash (imitation), 80×80 cm, arcylic on canvas, 2020 
 
 ![123](https://user-images.githubusercontent.com/75684677/101524223-016e0b00-39cd-11eb-8429-0a4c8231ed2a.jpeg)
 
-#### When COVID19 ends, 49x37 mm, arcylic on canvas, 2020
+#### When COVID19 ends, 49x37 cm, arcylic on canvas, 2020
 
 ![20190306_210856](https://user-images.githubusercontent.com/75684677/101526065-84906080-39cf-11eb-8302-2a7e41c69cc0.jpg)
 
