@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication and Speaking Engagements
+title: Publications and Speaking Engagements
 ---
 
 # Research Papers 
