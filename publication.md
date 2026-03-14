@@ -5,7 +5,7 @@ title: Publications and Speaking Engagements
 
 # Research Papers 
 
-- **Lee, Yoomin**; Seo, Samuel; Merfeld, Joshua; and Courtright, Thomas. 2025. _EV and Labor Market Transformation_ © World Bank, Washington, DC. Forthcoming (2025)
+- **Lee, Yoomin**; Seo, Hee Kwon; Merfeld, Joshua; Courtright, Thomas; Lee, Narae; Park, Sungho; Yoon, Chungeun. 2025. _EV and Labor Market Transformation_ © World Bank, Washington, DC. <https://hdl.handle.net/10986/44406>
 - **Lee, Yoomin. (lead author)** prepared for the DNP and World Bank. 2025. _Winds, Waters, and Watts: How Colombia’s Ports Can Fuel a Green Hydrogen Economy_ (Spanish: Hidrógeno Verde en Marcha: Viento, Agua y Puertos para Transformar a Colombia) © World Bank. <https://hdl.handle.net/10986/43510>
 - **Lee, Yoomin**; Heroy, Samuel Blackwell. 2023. _Kenya Country Climate and Development Report: Transport Sector Background Note, Chapter 2.4 Adaptation: climate change impact on transport infrastructure_, pages 35-50. World Bank, Washington, DC. © World Bank <https://openknowledge.worldbank.org/server/api/core/bitstreams/84e32dea-8cd3-4295-9258-19d9746493f7/content>
 - Humphreys, Richard Martin; Lawrence, Martha B.; Abate, Megersa Abera; Englert, Dominik; Salgmann, Rico; Sulikova, Simona; **Lee, Yoomin**; Brown, Jennifer; Zora, Sergiy. 2022. _Identifying Alternative Transport Options and Investment Needs for the Export of Agricultural Commodities from Ukraine: Modeling immediate, short- and medium- term options (Confidential Note)_. World Bank, Washington, DC. © World Bank
